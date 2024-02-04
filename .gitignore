@@ -1,0 +1,5 @@
+.env
+.vscode
+ambiente-curso-flask
+__pycache__
+instance
